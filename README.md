@@ -3,11 +3,11 @@
 ⦿ I am pursuing my B.Tech in Information Technology <br>
 ⦿ Competitive programmer
 <h1>Language/Tools i know</h1>
-⦿ C programming
-⦿ python
-⦿ html
-⦿ css
-⦿ javascript
+ C programming<br>
+ python<br>
+ html<br>
+ css<br>
+ javascript<br>
 
 
 
